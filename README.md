@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bibek-2022
-- 👀 I’m interested in Coding(Full Stack Development)
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m still learning.
 - 💞️ I’m looking to collaborate on any project with Frontend development requirement.
 - 📫 How to reach me : LinkedIn Profile www.linkedin.com/in/bibek-shrestha-01
 
