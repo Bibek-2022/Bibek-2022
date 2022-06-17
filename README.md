@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bibek-2022
-- 👀 I’m a Full Stack Developer
-- 🌱 I’m still learning.
-- 💞️ I’m looking to collaborate on any project with Frontend development requirement.
+- 👀 I’m a Full Stack Developer. I use React, Node JS, Javascript, .NET, C#, dotnetCore to create the application of the need.
+- 🌱 I’m still learning though. 
+- 💞️ I’m ready to collaborate on any sort of project that is unique and is fun. Do reach me out if you got any interesting idea.
 - 📫 How to reach me : LinkedIn Profile www.linkedin.com/in/bibek-shrestha-01
 
 <!---
